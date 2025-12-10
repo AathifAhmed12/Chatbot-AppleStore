@@ -1,11 +1,11 @@
-# 🍏 Apple Store Chatbot – AI Coursework Project
+#  Apple Store Chatbot – AI Coursework Project
 
 This project is an **NLP-driven Apple Store Chatbot** developed as part of my AI coursework.  
 The system simulates an Apple Store assistant capable of responding to user queries about Apple products, services, and support.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 The chatbot was built using **Natural Language Processing (NLP)** concepts and custom-trained models.  
 Its primary functions include:
@@ -19,7 +19,7 @@ This project demonstrates core AI principles, including **dataset creation**, **
 
 ---
 
-## 🔍 Features
+##  Features
 
 ✅ NLP-based intent recognition  
 ✅ Apple Store themed conversation handling  
@@ -30,7 +30,7 @@ This project demonstrates core AI principles, including **dataset creation**, **
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The system consists of:
 
@@ -42,7 +42,7 @@ The system consists of:
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 
 - **Java**  
 - **OpenNLP** (Tokenization, Sentence Detection, Classification)  
@@ -51,7 +51,7 @@ The system consists of:
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 - How to structure and prepare datasets for NLP model training  
 - How OpenNLP models work (tokenizer, sentence detector, classifier)  
@@ -61,5 +61,5 @@ The system consists of:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
