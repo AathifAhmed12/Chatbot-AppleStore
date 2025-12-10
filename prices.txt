@@ -1,0 +1,26 @@
+iPhone X : $300
+iPhone XR : $350
+
+iPhone 11 : $400
+iPhone 11 pro : $450
+iPhone 11 pro max :$499
+
+iPhone 12: $500
+iPhone 12 pro : $550
+iPhone 12 pro max : $599
+
+iPhone 13: $600
+iPhone 13 pro : $650
+iPhone 13 pro max : $699
+
+iphone 14 :700
+iPhone 14 pro : $750
+iPhone 14 pro max : $799
+
+iPhone 15 : $800
+iPhone 15 pro : $850
+iPhone 15 pro max : $899
+
+iPhone 16 : $900
+iPhone 16 pro : $950
+iPhone 16 pro max : $999
